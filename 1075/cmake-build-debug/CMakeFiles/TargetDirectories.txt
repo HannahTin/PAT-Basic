@@ -1,0 +1,3 @@
+/Users/tian/CLionProjects/PTA/1075/cmake-build-debug/CMakeFiles/1075.dir
+/Users/tian/CLionProjects/PTA/1075/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tian/CLionProjects/PTA/1075/cmake-build-debug/CMakeFiles/rebuild_cache.dir
